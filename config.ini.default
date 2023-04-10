@@ -1,9 +1,9 @@
 [database]
 driver = ODBC Driver 18 for SQL Server
 server = 127.0.0.1
-database = xxxxxx
-user = xxxxx
-password = xxxxxx
+database = AdventureWorks
+user = sqlfamily
+password = sqlf@m1ly
 encrypt = yes
 
 [openai]
